@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+node_modules/
+**/node_modules/
+*storage-state*
+*auth-state*
+*cookie*
+*session*
+user-data/
+browser-profile/
+playwright/.auth/
+*.log
+playwright-report/
+test-results/
+.DS_Store
